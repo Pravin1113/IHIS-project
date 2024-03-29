@@ -1,0 +1,11 @@
+Hi{FNAME) {LNAME},
+2<br/>
+4Welcome to Sodel family, Your registration 1s almost completed
+So please use below details to unlock vour account.‹br/>
+8 Temporary Password : < TEMP-PWD<br/>
+9 <br/>
+11‹a href='http://localhost:9090/unlockAcc?email=(EMAIL}'>
+elick rere o Unock YoUr accoUnt 7a> cors
+13 <br/ >
+15Thanks & Regards, <br/>
+16Pravin Chavan.<br/>

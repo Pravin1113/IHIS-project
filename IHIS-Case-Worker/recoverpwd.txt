@@ -1,0 +1,12 @@
+hi {FNAME} {LNAME},
+<br/>
+<br/>
+
+Please Find Your Password Bellow<br/>
+<br/>
+
+Password : {PWD}<br/>
+<br/>
+
+Thanks & Regards,<br/>
+Pravin Chavan,<br/>
